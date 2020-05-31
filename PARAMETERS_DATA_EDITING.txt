@@ -1,0 +1,2 @@
+pathDataSet:/home/archit/Downloads/archive.physionet.org/pn6/chbmit/
+FirstPartPathOutput: /home/archit/Downloads/dataset/spectograms

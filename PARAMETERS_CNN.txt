@@ -1,0 +1,3 @@
+PathSpectogramFolder:/home/archit/Downloads/dataset/spectograms
+OutputPath: /home/archit/Downloads/dataset/results.txt
+OutputPathModels: /home/archit/Downloads/dataset/

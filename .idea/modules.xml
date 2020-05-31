@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CNNs-on-CHB-MIT-master.iml" filepath="$PROJECT_DIR$/.idea/CNNs-on-CHB-MIT-master.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/Spotify/.idea/Spotify.iml" filepath="$USER_HOME$/Downloads/Spotify/.idea/Spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../djangoApp/.idea/djangoApp.iml" filepath="$PROJECT_DIR$/../djangoApp/.idea/djangoApp.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Code/Projects/273/Final/cmpe273-spring20-master/final/merkletree/.idea/merkletree.iml" filepath="$USER_HOME$/Documents/Code/Projects/273/Final/cmpe273-spring20-master/final/merkletree/.idea/merkletree.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Code/Projects/273/midterm/.idea/midterm.iml" filepath="$USER_HOME$/Documents/Code/Projects/273/midterm/.idea/midterm.iml" />
+    </modules>
+  </component>
+</project>
